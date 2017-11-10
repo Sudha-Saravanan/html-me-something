@@ -3,20 +3,22 @@ body {
 	max-width: 1024px;
 	margin: 0 auto;
 	background-color: rgb(160, 105, 105);
-	font-size: 62.5%;
-}
+	}
 
 header,
 main,
 footer {
-	font-size: 1.6em;
+	font-size: 15;
 }
 
 header {
 	padding: 1.875em 0;
 }
 
-header h1 {
+h1 {
 	text-align: center;
-	font-size: 12;
+	font-size: 26;
+}
+.profile{
+	background: rgb(153, 153, 153)
 }
